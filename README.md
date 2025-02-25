@@ -11,7 +11,8 @@
 ## Setup
 
 ```
-git clone https://github.com/woakes070048/n8n-docker
+-- file gốc : git clone https://github.com/woakes070048/n8n-docker
+git clone https://github.com/DNV-CODE/n8n.git
 cd n8n-docker
 cp .env.example .env
 # edit .env
